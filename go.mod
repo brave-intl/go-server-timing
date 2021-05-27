@@ -1,4 +1,4 @@
-module github.com/mitchellh/go-server-timing
+module github.com/brave-intl/go-server-timing
 
 go 1.14
 

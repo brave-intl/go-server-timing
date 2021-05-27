@@ -7,8 +7,6 @@ import (
 	"net/http"
 	"sync"
 	"time"
-
-	"github.com/mitchellh/go-server-timing"
 )
 
 func init() {
